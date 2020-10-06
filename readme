@@ -1,0 +1,4 @@
+Open up google chrome and visit this link 'http://localhost:8080/SSDOauthWeb'. 
+Run the web application by signing in to the application.
+Upload any file into the application and click on 'upload'.
+File will be uploaded to your google drive where you signed in.
